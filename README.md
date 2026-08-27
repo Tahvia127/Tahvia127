@@ -8,6 +8,9 @@ Right now I'm at the **University of Chicago**, studying data science, and most 
 
 ### 🔭 What I'm building
 
+**[Rights Within Reach](https://github.com/Tahvia127/rights-within-reach)** — a working demo of free, plain-language legal information for Illinois residents, in five languages and read aloud. Retrieval-augmented over 130+ verified legal-aid sources, with confidence ratings and hard refusals on out-of-scope questions. In active development; expanding beyond Illinois.
+`Python` `FastAPI` `React` `Chroma` `Claude`
+
 **[PublicPath](https://github.com/Tahvia127/PublicPath)** — a single searchable index of public-interest jobs, aggregated daily from 20+ federal, state, city, nonprofit, and fellowship sources into one Supabase-backed platform with a personalized weekly digest.
 `Python` `Supabase` `Postgres` `JavaScript`
 
